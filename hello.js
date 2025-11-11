@@ -5,3 +5,6 @@ function add(a, b) {
   return a + b;
 }
 console.log("2 + 3 =", add(2, 3)); //thêm dòng này để in kết quả
+
+//thằng phương st sửa tiếp
+console.log("This line is added by Phuong St.");
